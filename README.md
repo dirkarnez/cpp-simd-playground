@@ -1,1 +1,2 @@
-[ggml/cmake/FindSIMD.cmake at master · ggerganov/ggml](https://github.com/ggerganov/ggml/blob/master/cmake/FindSIMD.cmake)
+- [ggml/cmake/FindSIMD.cmake at master · ggerganov/ggml](https://github.com/ggerganov/ggml/blob/master/cmake/FindSIMD.cmake)
+- https://github.com/erjigit17/habra_palindromes/blob/main/c/fastSIMD.c
