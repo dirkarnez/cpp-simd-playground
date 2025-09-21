@@ -5,6 +5,17 @@
 #include <x86intrin.h>  // AVX/SSE 指令集
 #include <iostream>
 
+/*
+        [CTAGDRC/Source/util/include/SIMDMath.h at master · p-hlp/CTAGDRC](https://github.com/p-hlp/CTAGDRC/blob/master/Source/util/include/SIMDMath.h)
+        [SSE 与 AVE 向量化编程](https://cuterwrite.top/p/simd/)
+        [x64 (amd64) intrinsics list | Microsoft Learn](https://learn.microsoft.com/en-us/cpp/intrinsics/x64-amd64-intrinsics-list?view=msvc-170)
+        [Intel® Intrinsics Guide](https://www.intel.com/content/www/us/en/docs/intrinsics-guide/index.html)
+        [机器学习中的高性能计算（二）SSE优化](https://www.zhihu.com/tardis/zm/art/409973153?source_id=1003)
+        [C++优化-SIMD指令集_samylee的博客-CSDN博客](https://blog.csdn.net/samylee/category_8805473.html)
+        [SSE指令-CSDN博客](https://blog.csdn.net/fyire/article/details/120792319)
+        [JUCE: SystemStats Class Reference](https://docs.juce.com/master/classSystemStats.html)
+*/
+
 float sum(const float* src, int num)
 {
 
