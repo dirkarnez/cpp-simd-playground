@@ -9,3 +9,4 @@
 - MAC_1165_SDK/Source/MACLib/NNFilterAVX2.cpp
 - MAC_1165_SDK/Source/MACLib/NNFilter.cpp
 - MAC_1165_SDK/Source/MACLib/NNFilter.h
+- [1672160 - SIMD wormhole](https://bugzilla.mozilla.org/show_bug.cgi?id=1672160)
