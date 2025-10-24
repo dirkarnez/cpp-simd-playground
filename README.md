@@ -1,2 +1,11 @@
 - [ggml/cmake/FindSIMD.cmake at master · ggerganov/ggml](https://github.com/ggerganov/ggml/blob/master/cmake/FindSIMD.cmake)
 - https://github.com/erjigit17/habra_palindromes/blob/main/c/fastSIMD.c
+- MAC_1165_SDK/Source/MACLib/NNFilterSSE4.1.cpp
+- MAC_1165_SDK/Source/MACLib/NNFilterSSE2.cpp
+- MAC_1165_SDK/Source/MACLib/NNFilterRVV.cpp
+- MAC_1165_SDK/Source/MACLib/NNFilterNeon.cpp
+- MAC_1165_SDK/Source/MACLib/NNFilterGeneric.cpp
+- MAC_1165_SDK/Source/MACLib/NNFilterAVX512.cpp
+- MAC_1165_SDK/Source/MACLib/NNFilterAVX2.cpp
+- MAC_1165_SDK/Source/MACLib/NNFilter.cpp
+- MAC_1165_SDK/Source/MACLib/NNFilter.h
