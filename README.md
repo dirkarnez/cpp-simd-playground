@@ -10,3 +10,4 @@
 - MAC_1165_SDK/Source/MACLib/NNFilter.cpp
 - MAC_1165_SDK/Source/MACLib/NNFilter.h
 - [1672160 - SIMD wormhole](https://bugzilla.mozilla.org/show_bug.cgi?id=1672160)
+- [emscripten/test/neon/test_neon_wasm_simd.cpp at main · emscripten-core/emscripten](https://github.com/emscripten-core/emscripten/blob/main/test/neon/test_neon_wasm_simd.cpp)
